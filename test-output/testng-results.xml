@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log in to Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log in to continue - Log in with Atlassian account]]>
+    </line>
+    <line>
+      <![CDATA[URL https://id.atlassian.com/login?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%252F%26display%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D6493db5ac3fba54d64f87c98ee3167e4%26ssoVerified%3D&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D&email=lohith.n1997%40gmail.com&errorCode&login_hint=lohith.n1997%40gmail.com&restrict=true]]>
+    </line>
+    <line>
+      <![CDATA[Title = Boards | Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL https://trello.com/u/lohithn1997/boards]]>
+    </line>
+    <line>
+      <![CDATA[LOGOUT IS ENABLE]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log out of your Atlassian account - Log in with Atlassian account]]>
+    </line>
+    <line>
+      <![CDATA[URL https://id.atlassian.com/logout?continue=https%3A%2F%2Ftrello.com%2Flogout%3Fdsc%3D4f9044e68fcf499bea262550f62b2795b8343e25b2dfe12d708dbae1653cba8e]]>
+    </line>
+    <line>
+      <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/home]]>
+    </line>
+    <line>
+      <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log in to Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log in to continue - Log in with Atlassian account]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://id.atlassian.com/login?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%252F%26display%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D6493db8982b67d35ec0fcef342e89cf7%26ssoVerified%3D&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D&email=lohith.n1997%40gmail.com&errorCode&login_hint=lohith.n1997%40gmail.com&restrict=true]]>
+    </line>
+    <line>
+      <![CDATA[Title = Boards | Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/u/lohithn1997/boards]]>
+    </line>
+    <line>
+      <![CDATA[LOGOUT IS ENABLE]]>
+    </line>
+    <line>
+      <![CDATA[Create Board Button is Vissibale]]>
+    </line>
+    <line>
+      <![CDATA[Title = lohith.N | Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/b/P7XOIWUf/lohithn]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log out of your Atlassian account - Log in with Atlassian account]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://id.atlassian.com/logout?continue=https%3A%2F%2Ftrello.com%2Flogout%3Fdsc%3D56b4ae7366ee6efd326ec47b0d88095b566a3e7065be0ec97bf26e35d9e86759]]>
+    </line>
+    <line>
+      <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/home]]>
+    </line>
+    <line>
+      <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log in to Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log in to continue - Log in with Atlassian account]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://id.atlassian.com/login?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%252F%26display%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D6493dbd0c5cea2c6fe4bb21d3fd931b2%26ssoVerified%3D&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D&email=lohith.n1997%40gmail.com&errorCode&login_hint=lohith.n1997%40gmail.com&restrict=true]]>
+    </line>
+    <line>
+      <![CDATA[Title = Boards | Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/u/lohithn1997/boards]]>
+    </line>
+    <line>
+      <![CDATA[LOGOUT IS ENABLE]]>
+    </line>
+    <line>
+      <![CDATA[Create Board Button is Vissibale]]>
+    </line>
+    <line>
+      <![CDATA[Title = Boards | Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/u/lohithn1997/boards]]>
+    </line>
+    <line>
+      <![CDATA[Title = lohith.N | Trello]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log out of your Atlassian account - Log in with Atlassian account]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://id.atlassian.com/logout?continue=https%3A%2F%2Ftrello.com%2Flogout%3Fdsc%3De82903ac93be6c123ecdcf474640962f52bccbd8d2e7ba90ca87038c555401e1]]>
+    </line>
+    <line>
+      <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/home]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log in to Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/login]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log in to continue - Log in with Atlassian account]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://id.atlassian.com/login?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%252F%26display%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D6493dc06cccfcb8478935e0fdb4b358c%26ssoVerified%3D&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D&email=lohith.n1997%40gmail.com&errorCode&login_hint=lohith.n1997%40gmail.com&restrict=true]]>
+    </line>
+    <line>
+      <![CDATA[Title = Boards | Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/u/lohithn1997/boards]]>
+    </line>
+    <line>
+      <![CDATA[LOGOUT IS ENABLE]]>
+    </line>
+    <line>
+      <![CDATA[Create Board Button is Vissibale]]>
+    </line>
+    <line>
+      <![CDATA[Title = Boards | Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/u/lohithn1997/boards]]>
+    </line>
+    <line>
+      <![CDATA[Title = lohith.N | Trello]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log out of your Atlassian account - Log in with Atlassian account]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://id.atlassian.com/logout?continue=https%3A%2F%2Ftrello.com%2Flogout%3Fdsc%3D71ca9366a6b4721bccb8caf23b22c8f272dec38921ecffc0e22bf71cd0616794]]>
+    </line>
+    <line>
+      <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL = https://trello.com/home]]>
+    </line>
+    <line>
+      <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+    </line>
+    <line>
+      <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+    </line>
+    <line>
+      <![CDATA[Title = Log in to Trello]]>
+    </line>
+    <line>
+      <![CDATA[URL https://trello.com/login]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-22T10:55:26 IST" name="Default suite" finished-at="2023-06-22T10:59:42 IST" duration-ms="255739">
+    <groups>
+    </groups>
+    <test started-at="2023-06-22T10:55:26 IST" name="Default test" finished-at="2023-06-22T10:59:42 IST" duration-ms="255739">
+      <class name="com.trello.Project.endtoend.TrelloBoard">
+        <test-method is-config="true" signature="configerBeforeMethod()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:55:26 IST" name="configerBeforeMethod" finished-at="2023-06-22T10:55:40 IST" duration-ms="13448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configerBeforeMethod -->
+        <test-method signature="LoginInToTrello()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:55:40 IST" name="LoginInToTrello" finished-at="2023-06-22T10:56:16 IST" duration-ms="36269" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+            </line>
+            <line>
+              <![CDATA[Title = Log in to Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Title = Log in to continue - Log in with Atlassian account]]>
+            </line>
+            <line>
+              <![CDATA[URL https://id.atlassian.com/login?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%252F%26display%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D6493db5ac3fba54d64f87c98ee3167e4%26ssoVerified%3D&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D&email=lohith.n1997%40gmail.com&errorCode&login_hint=lohith.n1997%40gmail.com&restrict=true]]>
+            </line>
+            <line>
+              <![CDATA[Title = Boards | Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL https://trello.com/u/lohithn1997/boards]]>
+            </line>
+            <line>
+              <![CDATA[LOGOUT IS ENABLE]]>
+            </line>
+            <line>
+              <![CDATA[Title = Log out of your Atlassian account - Log in with Atlassian account]]>
+            </line>
+            <line>
+              <![CDATA[URL https://id.atlassian.com/logout?continue=https%3A%2F%2Ftrello.com%2Flogout%3Fdsc%3D4f9044e68fcf499bea262550f62b2795b8343e25b2dfe12d708dbae1653cba8e]]>
+            </line>
+            <line>
+              <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/home]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginInToTrello -->
+        <test-method is-config="true" signature="configerAfterMethod()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:56:16 IST" name="configerAfterMethod" finished-at="2023-06-22T10:56:18 IST" duration-ms="1518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configerAfterMethod -->
+        <test-method is-config="true" signature="configerBeforeMethod()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:56:18 IST" name="configerBeforeMethod" finished-at="2023-06-22T10:56:26 IST" duration-ms="7888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configerBeforeMethod -->
+        <test-method signature="TrelloCreateAndDeleteBoard()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:56:26 IST" name="TrelloCreateAndDeleteBoard" finished-at="2023-06-22T10:57:29 IST" duration-ms="63531" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+            </line>
+            <line>
+              <![CDATA[Title = Log in to Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Title = Log in to continue - Log in with Atlassian account]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://id.atlassian.com/login?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%252F%26display%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D6493db8982b67d35ec0fcef342e89cf7%26ssoVerified%3D&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D&email=lohith.n1997%40gmail.com&errorCode&login_hint=lohith.n1997%40gmail.com&restrict=true]]>
+            </line>
+            <line>
+              <![CDATA[Title = Boards | Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/u/lohithn1997/boards]]>
+            </line>
+            <line>
+              <![CDATA[LOGOUT IS ENABLE]]>
+            </line>
+            <line>
+              <![CDATA[Create Board Button is Vissibale]]>
+            </line>
+            <line>
+              <![CDATA[Title = lohith.N | Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/b/P7XOIWUf/lohithn]]>
+            </line>
+            <line>
+              <![CDATA[Title = Log out of your Atlassian account - Log in with Atlassian account]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://id.atlassian.com/logout?continue=https%3A%2F%2Ftrello.com%2Flogout%3Fdsc%3D56b4ae7366ee6efd326ec47b0d88095b566a3e7065be0ec97bf26e35d9e86759]]>
+            </line>
+            <line>
+              <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/home]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TrelloCreateAndDeleteBoard -->
+        <test-method is-config="true" signature="configerAfterMethod()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:57:29 IST" name="configerAfterMethod" finished-at="2023-06-22T10:57:31 IST" duration-ms="1407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configerAfterMethod -->
+        <test-method is-config="true" signature="configerBeforeMethod()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:57:31 IST" name="configerBeforeMethod" finished-at="2023-06-22T10:57:39 IST" duration-ms="8441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configerBeforeMethod -->
+        <test-method signature="TrelloCreateListAndSwapInCreatedBoard()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:57:39 IST" name="TrelloCreateListAndSwapInCreatedBoard" finished-at="2023-06-22T10:58:26 IST" duration-ms="46709" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+            </line>
+            <line>
+              <![CDATA[Title = Log in to Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Title = Log in to continue - Log in with Atlassian account]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://id.atlassian.com/login?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%252F%26display%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D6493dbd0c5cea2c6fe4bb21d3fd931b2%26ssoVerified%3D&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D&email=lohith.n1997%40gmail.com&errorCode&login_hint=lohith.n1997%40gmail.com&restrict=true]]>
+            </line>
+            <line>
+              <![CDATA[Title = Boards | Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/u/lohithn1997/boards]]>
+            </line>
+            <line>
+              <![CDATA[LOGOUT IS ENABLE]]>
+            </line>
+            <line>
+              <![CDATA[Create Board Button is Vissibale]]>
+            </line>
+            <line>
+              <![CDATA[Title = Boards | Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/u/lohithn1997/boards]]>
+            </line>
+            <line>
+              <![CDATA[Title = lohith.N | Trello]]>
+            </line>
+            <line>
+              <![CDATA[Title = Log out of your Atlassian account - Log in with Atlassian account]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://id.atlassian.com/logout?continue=https%3A%2F%2Ftrello.com%2Flogout%3Fdsc%3De82903ac93be6c123ecdcf474640962f52bccbd8d2e7ba90ca87038c555401e1]]>
+            </line>
+            <line>
+              <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/home]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TrelloCreateListAndSwapInCreatedBoard -->
+        <test-method is-config="true" signature="configerAfterMethod()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:58:26 IST" name="configerAfterMethod" finished-at="2023-06-22T10:58:27 IST" duration-ms="1275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configerAfterMethod -->
+        <test-method is-config="true" signature="configerBeforeMethod()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:58:27 IST" name="configerBeforeMethod" finished-at="2023-06-22T10:58:35 IST" duration-ms="8073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configerBeforeMethod -->
+        <test-method signature="TrelloCreateMultipleListAndSwapInCreatedBoard()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:58:35 IST" name="TrelloCreateMultipleListAndSwapInCreatedBoard" finished-at="2023-06-22T10:59:16 IST" duration-ms="40617" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Title = Log in to Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/login]]>
+            </line>
+            <line>
+              <![CDATA[Title = Log in to continue - Log in with Atlassian account]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://id.atlassian.com/login?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3FreturnUrl%3D%252F%26display%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26aaOnboarding%3D%26updateEmail%3D%26traceId%3D6493dc06cccfcb8478935e0fdb4b358c%26ssoVerified%3D&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D&email=lohith.n1997%40gmail.com&errorCode&login_hint=lohith.n1997%40gmail.com&restrict=true]]>
+            </line>
+            <line>
+              <![CDATA[Title = Boards | Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/u/lohithn1997/boards]]>
+            </line>
+            <line>
+              <![CDATA[LOGOUT IS ENABLE]]>
+            </line>
+            <line>
+              <![CDATA[Create Board Button is Vissibale]]>
+            </line>
+            <line>
+              <![CDATA[Title = Boards | Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/u/lohithn1997/boards]]>
+            </line>
+            <line>
+              <![CDATA[Title = lohith.N | Trello]]>
+            </line>
+            <line>
+              <![CDATA[Title = Log out of your Atlassian account - Log in with Atlassian account]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://id.atlassian.com/logout?continue=https%3A%2F%2Ftrello.com%2Flogout%3Fdsc%3D71ca9366a6b4721bccb8caf23b22c8f272dec38921ecffc0e22bf71cd0616794]]>
+            </line>
+            <line>
+              <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL = https://trello.com/home]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TrelloCreateMultipleListAndSwapInCreatedBoard -->
+        <test-method is-config="true" signature="configerAfterMethod()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:59:16 IST" name="configerAfterMethod" finished-at="2023-06-22T10:59:17 IST" duration-ms="862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configerAfterMethod -->
+        <test-method is-config="true" signature="configerBeforeMethod()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:59:17 IST" name="configerBeforeMethod" finished-at="2023-06-22T10:59:25 IST" duration-ms="8709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configerBeforeMethod -->
+        <test-method signature="TrelloHomePageCheck()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:59:25 IST" name="TrelloHomePageCheck" finished-at="2023-06-22T10:59:25 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TrelloHomePageCheck -->
+        <test-method is-config="true" signature="configerAfterMethod()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:59:25 IST" name="configerAfterMethod" finished-at="2023-06-22T10:59:26 IST" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configerAfterMethod -->
+        <test-method is-config="true" signature="configerBeforeMethod()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:59:26 IST" name="configerBeforeMethod" finished-at="2023-06-22T10:59:37 IST" duration-ms="10946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configerBeforeMethod -->
+        <test-method signature="TrelloHomePagelogin()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:59:37 IST" name="TrelloHomePagelogin" finished-at="2023-06-22T10:59:40 IST" duration-ms="2689" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Title = Manage Your Team’s Projects From Anywhere | Trello]]>
+            </line>
+            <line>
+              <![CDATA[Title = Log in to Trello]]>
+            </line>
+            <line>
+              <![CDATA[URL https://trello.com/login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TrelloHomePagelogin -->
+        <test-method is-config="true" signature="configerAfterMethod()[pri:0, instance:com.trello.Project.endtoend.TrelloBoard@35cabb2a]" started-at="2023-06-22T10:59:40 IST" name="configerAfterMethod" finished-at="2023-06-22T10:59:42 IST" duration-ms="2493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configerAfterMethod -->
+      </class> <!-- com.trello.Project.endtoend.TrelloBoard -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
